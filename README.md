@@ -1,4 +1,3 @@
-# ECellGECG.github.io<!DOCTYPE html>
 <html>
 
 <head>
