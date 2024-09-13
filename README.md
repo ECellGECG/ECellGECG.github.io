@@ -21,7 +21,7 @@
             <a href="index.html"><img src="2.logo.jpeg">
             </a>
             <a href="index.html">
-                <h3>ECELL GEC-G</h3>
+            
             </a>
             <div class="nav-links" id="navLinks">
                 <i class="fa-solid fa-rectangle-xmark" onclick="hidemenu()"></i>
