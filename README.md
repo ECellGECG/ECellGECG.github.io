@@ -50,7 +50,7 @@
 
     <section class="events">
         <h1>Events we Organise</h1>
-        <p>ECELL GECG organises various events thorughout the year.</p>
+        <p>ECELL GECG organises various events throughout the year.</p>
 
         <div class="row">
             <div class="events-col">
